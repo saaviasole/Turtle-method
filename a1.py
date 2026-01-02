@@ -1,8 +1,8 @@
 import turtle
 
 # Creating Screen
-screen = turtle.screen()
-screen.setup(width=650, hight=650)
+screen = turtle.Screen()
+screen.setup(width=650, height=650)
 screen.bgcolor("aqua")
 screen.title("Drawing a square")
 
@@ -18,3 +18,8 @@ for i in range(4):
 
     # keep thw window open
     turtle.done
+
+   
+
+
+   
