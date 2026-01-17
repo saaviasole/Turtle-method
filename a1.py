@@ -18,8 +18,3 @@ for i in range(4):
 
     # keep thw window open
     turtle.done
-
-   
-
-
-   
